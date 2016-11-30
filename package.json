@@ -1,0 +1,12 @@
+{
+  "name": "net-intercept",
+  "version": "1.0.0",
+  "description": "A module for intercepting traffic from node net module",
+  "main": "lib/index.js",
+  "repository": {
+    "url": "https://github.com/ande765a/net-intercept.git",
+    "type": "git"
+  },
+  "author": "Anders Bredgaard Thuesen <andersbthuesen@gmail.com>",
+  "license": "MIT"
+}
